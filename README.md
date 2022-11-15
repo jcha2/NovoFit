@@ -2,9 +2,9 @@
 [2020-2022 석사 연구주제] NovoFit: A Machine Learning Based Approach to Estimate False Discovery Rate of De Novo Peptide Sequencing
 
 # 발표
-[2021 BIOINFO 한국생명정보학회 Poster presentation]
-[2021 KOGO winter symphosium 한국유전체학회 Poster presentation]
-[2022 ASMS(American Society for Mass Spectrometry) Poster Presentation]
+[2021 BIOINFO 한국생명정보학회 Poster presentation]<br/>
+[2021 KOGO winter symphosium 한국유전체학회 Poster presentation]<br/>
+[2022 ASMS(American Society for Mass Spectrometry) Poster Presentation]<br/>
 
 ### Summary:
 <img width="689" alt="image" src="https://user-images.githubusercontent.com/31056110/201927657-b1c731ae-6bd5-4168-a733-02c5900d27f7.png">
